@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@progress/kendo-theme-default/scss/variables";
+@import "~@progress/kendo-theme-default/scss/mixins";
+
+// Dependencies
+@import "~@progress/kendo-theme-default/scss/common/all";
+@import "~@progress/kendo-theme-default/scss/ripple";
+@import "~@progress/kendo-theme-default/scss/popup";
+
+
+// Data management
+@import "~@progress/kendo-theme-default/scss/pager";
+@import "~@progress/kendo-theme-default/scss/grid";
